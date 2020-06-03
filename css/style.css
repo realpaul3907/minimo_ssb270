@@ -289,6 +289,11 @@ display: inline-block;
 
 .service_text p{
 
+font-family: 'Playfair Display', serif;
+font-size: 14px;
+font-weight: 300;
+margin:15px 0 ;
+display: inline-block;
 
 }
 
